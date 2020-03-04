@@ -1,0 +1,16 @@
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\bin\Debug\ProjectCaro.exe.config
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\bin\Debug\ProjectCaro.exe
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\bin\Debug\ProjectCaro.pdb
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.csprojResolveAssemblyReference.cache
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.MainForm.resources
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.csproj.GenerateResource.Cache
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.exe
+T:\SERCULES\Code C#\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.pdb
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\bin\Debug\ProjectCaro.exe.config
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\bin\Debug\ProjectCaro.exe
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\bin\Debug\ProjectCaro.pdb
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.csprojResolveAssemblyReference.cache
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.MainForm.resources
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.csproj.GenerateResource.Cache
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.exe
+T:\SERCULES\Code C#\caro\ProjectCaro\ProjectCaro\obj\Debug\ProjectCaro.pdb
